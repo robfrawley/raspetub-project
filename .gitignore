@@ -1,2 +1,5 @@
 *.pyc
 __pycache
+*.save
+*.save.[0-9]
+*.csv

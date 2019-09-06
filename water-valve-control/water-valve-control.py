@@ -46,7 +46,7 @@ def motor_wait(seconds):
 def main():
     while True:
         motor_open_close()
-        motor_wait(3600)        
+        motor_wait(3600)
 
 if __name__ == '__main__':
     try:
